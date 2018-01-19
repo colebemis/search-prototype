@@ -1,0 +1,22 @@
+{
+  "name": "simple-routing",
+  "description": null,
+  "version": "0.0.70",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "query-string": "5.0.1",
+    "lodash.pickby": "4.6.0",
+    "lodash.isempty": "4.4.0",
+    "history": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
